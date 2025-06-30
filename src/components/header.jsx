@@ -22,7 +22,7 @@ const Header = () => {
                 {/* Refresh Button */}
                 <button
                     onClick={handleRefresh}
-                    className="px-4 py-1.5 bg-amber-500 text-white font-semibold rounded-lg hover:bg-amber-800 transition"
+                    className="px-4 py-1.5 bg-amber-800 text-white font-semibold rounded-lg hover:bg-amber-900 transition"
                 >
                     Refresh
                 </button>
